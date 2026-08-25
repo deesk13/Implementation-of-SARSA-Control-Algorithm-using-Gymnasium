@@ -285,7 +285,8 @@ env.close()
 ```
 ## Output
 <img width="487" height="187" alt="image" src="https://github.com/user-attachments/assets/d5b36208-b686-4ece-9505-5435cc72a7ad" />
-<img width="792" height="482" alt="image" src="https://github.com/user-attachments/assets/c08c434d-6b20-479d-a2ff-2c279af241a5" />
+<img width="631" height="192" alt="image" src="https://github.com/user-attachments/assets/a113d1dd-1653-4106-8f84-fb15827664d2" />
+
 <img width="950" height="411" alt="image" src="https://github.com/user-attachments/assets/f26ca411-1ed3-486d-950b-28fa0c906850" />
 
 
