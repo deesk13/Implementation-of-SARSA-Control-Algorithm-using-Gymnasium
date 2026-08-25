@@ -284,7 +284,6 @@ plt.show()
 env.close()
 ```
 ## Output
-<img width="487" height="187" alt="image" src="https://github.com/user-attachments/assets/d5b36208-b686-4ece-9505-5435cc72a7ad" />
 <img width="631" height="192" alt="image" src="https://github.com/user-attachments/assets/a113d1dd-1653-4106-8f84-fb15827664d2" />
 <img width="900" height="407" alt="image" src="https://github.com/user-attachments/assets/23fa4b42-6704-44b5-9387-96cfc73f43ae" />
 
